@@ -1,7 +1,6 @@
 ### Hola 👋
 
 const Jonathan = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Java"],
     technologies: {
        mobileApp: ["Android App"],
