@@ -1,5 +1,19 @@
-### Hi there 👋
+### Hola 👋
 
+const Jonathan = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Java"],
+    technologies: {
+       mobileApp: ["Android App"],
+       backEnd: {
+            js: ["node", "express", "hapi"],
+            java:["spring","Hibernate","struts"]
+        },
+        databases: ["MySql", "SqlServer", "Oracle"]
+    },
+    architecture: ["microservices","monolithic"],
+};
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <!--
 **jqvalenzuela10/jqvalenzuela10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
